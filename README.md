@@ -1,1 +1,1 @@
-# pushuploggerapp
+# pushuploggerapp - An application that keep tracks of your daily pushups
